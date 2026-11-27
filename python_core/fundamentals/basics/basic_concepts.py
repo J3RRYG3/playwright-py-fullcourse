@@ -36,3 +36,4 @@ and, or, not
 '''pedir valores por teclado'''
 nombre = input("ingrese su nombre: ")
 print(f" su nombre es:  {nombre}")
+
